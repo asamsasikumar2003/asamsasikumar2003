@@ -8,32 +8,6 @@
 - ⚡ Fun fact: I once analyzed market trends for Cars24 and discovered insights that could help optimize their pricing strategy!
 - 💼 Looking to Collaborate On: Open-source data projects and analytics challenges
 
-# Hi 👋, I'm Sasi Kumar Asam  
-A passionate **Data Analyst** from India  
-
-![Header Image](https://via.placeholder.com/800x400) <!-- Replace this link with your own image -->
-
----
-
-## 🌟 About Me  
-- 🌱 I’m currently working on **LLM Project**  
-- 🌳 I’m currently learning **Generative AI**  
-- 💻 All of my projects are available at [GitHub]()  
-- 🌐 My Portfolio: [timely-dolphin-066b41.netlify.app]()  
-- ❓ Ask me about **anything**  
-
----
-
-## 🔧 Technologies & Tools  
-
-
----
-
-## 📫 Connect with Me  
-- **Email**:   
-- **LinkedIn**: []()  
-
-
 
 <!---
 asamsasikumar2003/asamsasikumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
