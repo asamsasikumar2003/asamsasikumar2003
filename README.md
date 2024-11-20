@@ -1,4 +1,4 @@
-# <\center>👋 Hi, I’m asamsasikumar
+#<\center>👋 Hi, I’m asamsasikumar
 
 
 - 👋 Hi, I’m asamsasikumar, I’m a passionate data analyst and recent graduate with a strong interest in turning data into actionable insights. I love working with SQL and Python to analyze data and create visualizations that tell compelling stories. Always eager to learn and collaborate on innovative projects!
