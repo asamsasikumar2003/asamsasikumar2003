@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=DQf99h0TzUt2KV0I43hCuUIPEizOHMkauyzzt8Y_eRo)]
+[![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)]
 
 <h1 align="center">Hi 👋, I'm ASAM SASI KUMAR</h1>
 <h3 align="center">A passionate data analyst and recent graduate with a strong interest in turning data into actionable insights. I love working with SQL and Python to analyze data and create visualizations that tell compelling stories. Always eager to learn and collaborate on innovative projects!</h3>
