@@ -1,4 +1,4 @@
-[![MasterHead][(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm ASAM SASI KUMAR</h1>
 <h3 align="center">A passionate data analyst and recent graduate with a strong interest in turning data into actionable insights. I love working with SQL and Python to analyze data and create visualizations that tell compelling stories. Always eager to learn and collaborate on innovative projects!</h3>
