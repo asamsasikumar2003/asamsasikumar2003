@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ASAM SASI KUMAR</h1>
 <h3 align="center">A passionate data analyst and recent graduate with a strong interest in turning data into actionable insights. I love working with SQL and Python to analyze data and create visualizations that tell compelling stories. Always eager to learn and collaborate on innovative projects!</h3>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asamsasikumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="asamsasikumar2003" /> </p>
 
